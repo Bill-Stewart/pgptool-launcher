@@ -1,0 +1,29 @@
+1 VERSIONINFO
+FILEVERSION 0,5,9,3
+PRODUCTVERSION 0,5,9,3
+FILEOS 0x4
+FILETYPE 1
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "CompanyName", "Bill Stewart (bstewart at iname.com)"
+      VALUE "FileDescription", "pgptool.exe"
+      VALUE "FileVersion", "0.5.9.3"
+      VALUE "InternalName", "pgptool.exe"
+      VALUE "LegalCopyright", "(C) 2024 by Bill Stewart (bstewart at iname.com)"
+      VALUE "OriginalFilename", "pgptool.exe"
+      VALUE "ProductName", "pgptool.exe"
+      VALUE "ProductVersion", "0.5.9.3"
+    }
+  }
+
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0409, 0x04E4
+  }
+}
+
+APPICON ICON "pgptool.ico"
+MAINICON ICON "pgptool.ico"
